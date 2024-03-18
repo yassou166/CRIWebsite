@@ -1,8 +1,8 @@
-.axes{
-    display: flex;
-    justify-content: space-evenly;
+.axes {
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.footer{
-    height: 40px
+.footer {
+  height: 40px;
 }
